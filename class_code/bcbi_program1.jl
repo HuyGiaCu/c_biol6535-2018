@@ -1,5 +1,5 @@
 #
-#  biol6535_program1.jl
+#  bcbi_program1.jl
 #  First program written in Julia.
 #
 #  Created by BCBI on 2017-02-06.
