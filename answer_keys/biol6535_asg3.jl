@@ -3,8 +3,8 @@
 # Program:		biol6535_asg3.jl
 # Purpose: 		Process ClinicalTrials.gov titles
 # Description:	For each ClinicalTrials.gov title, gets and prints length,
-#						prints first five characters if length is less than 75 or
-#						prints last five characters otherwise, and checks if title
+#				prints first five characters if length is less than 75 or
+#				prints last five characters otherwise, and checks if title
 #						includes any numbers.
 # Created by: 			BCBI (bcbi@brown.edu)
 # Created on: 			2017-02-21
@@ -86,7 +86,6 @@ end
 #
 # NCT02607566
 # Yoga for Type 2 Diabetes
-
 #
 # NCT02738749
 # Sodium Channel Splicing in Heart Failure Trial (SOCS-HEFT) Prospective Study
